@@ -23,7 +23,7 @@ Acest proiect este o bază de date fictivă pentru o agenție de turism. Include
   
  **Mediu de dezvoltare:**
 
-  SQL Developer
+  - SQL Developer
 
   **Autor:**
 
