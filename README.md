@@ -16,16 +16,16 @@ Acest proiect este o bază de date fictivă pentru o agenție de turism. Include
  - **Testarea interogărilor:** Utilizați exemplele de interogări SQL furnizate pentru a testa diferite operațiuni și pentru a obține informații specifice din baza de date. Experiența directă cu interogările vă va ajuta să vă familiarizați cu datele și să înțelegeți mai bine logica din spatele funcționării bazei de date.
  - **Utilizarea blocurilor PL/SQL:** Dacă aveți nevoie să implementați logică procedurală sau să efectuați operații complexe în baza de date, puteți utiliza blocurile PL/SQL furnizate în documentație. Aceste blocuri oferă exemple practice și îndrumări pentru a vă ajuta să începeți.
 
-   **Tehnologii utilizate:**
+**Tehnologii utilizate:**
    
-   - Oracle SQL
-   - PL/SQL
+  - Oracle SQL
+  - PL/SQL
   
-   **Mediu de dezvoltare:**
+ **Mediu de dezvoltare:**
 
-   SQL Developer
+  SQL Developer
 
-   **Autor:**
+  **Autor:**
 
    @Ana-Mariaq
 
